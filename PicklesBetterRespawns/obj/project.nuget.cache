@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "pKABbGEfJ2Wj2k/i5KVP7bYgeHIcX9VsyW/7E0EktQ3mURw5LoTA4Ae5NhdRz/mrTlskkpFuXC7eHDE7NqaOSg==",
+  "dgSpecHash": "cUPrvpWS367nzzGpy+kzIWIe1PNbEsRGVcgrHQaygwUgIq3X4YwodjQmKVkzmRiyay7ob4+bQvLU34Ub9fkiqw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Pickle\\Documents\\Programming\\PicklesBetterRespawns\\PicklesBetterRespawns\\PicklesBetterRespawns.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pickle\\.nuget\\packages\\bepinex.analyzers\\1.0.8\\bepinex.analyzers.1.0.8.nupkg.sha512",
+    "C:\\Users\\Pickle\\.nuget\\packages\\bepinex.assemblypublicizer.msbuild\\0.4.1\\bepinex.assemblypublicizer.msbuild.0.4.1.nupkg.sha512",
     "C:\\Users\\Pickle\\.nuget\\packages\\bepinex.baselib\\5.4.20\\bepinex.baselib.5.4.20.nupkg.sha512",
     "C:\\Users\\Pickle\\.nuget\\packages\\bepinex.core\\5.4.21\\bepinex.core.5.4.21.nupkg.sha512",
     "C:\\Users\\Pickle\\.nuget\\packages\\bepinex.plugininfoprops\\1.1.0\\bepinex.plugininfoprops.1.1.0.nupkg.sha512",

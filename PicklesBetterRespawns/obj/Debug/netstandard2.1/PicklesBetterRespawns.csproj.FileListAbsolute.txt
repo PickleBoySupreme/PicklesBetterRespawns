@@ -1,0 +1,11 @@
+C:\Users\Pickle\Documents\Programming\PicklesBetterRespawns\PicklesBetterRespawns\bin\Debug\netstandard2.1\PicklesBetterRespawns.deps.json
+C:\Users\Pickle\Documents\Programming\PicklesBetterRespawns\PicklesBetterRespawns\bin\Debug\netstandard2.1\PicklesBetterRespawns.dll
+C:\Users\Pickle\Documents\Programming\PicklesBetterRespawns\PicklesBetterRespawns\bin\Debug\netstandard2.1\PicklesBetterRespawns.pdb
+C:\Users\Pickle\Documents\Programming\PicklesBetterRespawns\PicklesBetterRespawns\obj\Debug\netstandard2.1\PicklesBetterRespawns.csproj.AssemblyReference.cache
+C:\Users\Pickle\Documents\Programming\PicklesBetterRespawns\PicklesBetterRespawns\obj\Debug\netstandard2.1\PluginInfo.cs
+C:\Users\Pickle\Documents\Programming\PicklesBetterRespawns\PicklesBetterRespawns\obj\Debug\netstandard2.1\PicklesBetterRespawns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pickle\Documents\Programming\PicklesBetterRespawns\PicklesBetterRespawns\obj\Debug\netstandard2.1\PicklesBetterRespawns.AssemblyInfoInputs.cache
+C:\Users\Pickle\Documents\Programming\PicklesBetterRespawns\PicklesBetterRespawns\obj\Debug\netstandard2.1\PicklesBetterRespawns.AssemblyInfo.cs
+C:\Users\Pickle\Documents\Programming\PicklesBetterRespawns\PicklesBetterRespawns\obj\Debug\netstandard2.1\PicklesBetterRespawns.csproj.CoreCompileInputs.cache
+C:\Users\Pickle\Documents\Programming\PicklesBetterRespawns\PicklesBetterRespawns\obj\Debug\netstandard2.1\PicklesBetterRespawns.dll
+C:\Users\Pickle\Documents\Programming\PicklesBetterRespawns\PicklesBetterRespawns\obj\Debug\netstandard2.1\PicklesBetterRespawns.pdb
