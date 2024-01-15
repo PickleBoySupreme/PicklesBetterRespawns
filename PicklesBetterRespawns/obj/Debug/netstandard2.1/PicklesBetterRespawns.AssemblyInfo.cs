@@ -10,9 +10,10 @@
 using System;
 using System.Reflection;
 
-#pragma warning disable CS0436 // Type conflicts with imported type
-[assembly: System.Runtime.CompilerServices.IgnoresAccessChecksToAttribute("")]
-#pragma warning restore CS0436 // Type conflicts with imported type
+[assembly: System.Runtime.CompilerServices.IgnoresAccessChecksToAttribute("Assembly-CSharp")]
+[assembly: System.Runtime.CompilerServices.IgnoresAccessChecksToAttribute("Unity.Netcode.Runtime")]
+[assembly: System.Runtime.CompilerServices.IgnoresAccessChecksToAttribute("UnityEngine.CoreModule")]
+[assembly: System.Runtime.CompilerServices.IgnoresAccessChecksToAttribute("UnityEngine")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("PicklesBetterRespawns")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("weep")]
