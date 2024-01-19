@@ -1,4 +1,5 @@
 ﻿using BepInEx;
+using GameNetcodeStuff;
 using HarmonyLib;
 
 namespace PicklesBetterRespawns
